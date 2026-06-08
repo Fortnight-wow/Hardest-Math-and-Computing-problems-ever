@@ -30,6 +30,8 @@ Every finite simple group belongs to one of:
 - Alternating groups
 - Groups of Lie type
 - One of the 26 sporadic simple groups
+## Paper Published
+https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-1/issue-1/The-classification-of-finite-simple-groups-I-Simple-groups-and/bams/1183542334.pdf
 
 ## Historical Importance
 This is widely regarded as one of the largest mathematical proofs ever completed.
