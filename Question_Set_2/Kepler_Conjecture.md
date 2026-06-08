@@ -21,7 +21,7 @@ The face-centered cubic packing and equivalent packings achieve the maximum poss
 ## Original Papers
 
 Thomas Hales:
-https://annals.math.princeton.edu/2005/162-3/p05
+https://annals.math.princeton.edu/wp-content/uploads/annals-v162-n3-p01.pdf
 
 Flyspeck Project:
 https://arxiv.org/abs/1501.02155
