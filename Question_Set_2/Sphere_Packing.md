@@ -26,10 +26,10 @@ The proof introduced unexpected connections between Fourier analysis, modular fo
 ## Original Papers
 
 Dimension 8:
-https://annals.math.princeton.edu/2017/185-3/p01
+https://webhomes.maths.ed.ac.uk/~v1ranick/papers/viazovska1.pdf
 
 Dimension 24:
-https://annals.math.princeton.edu/2017/185-3/p02
+https://annals.math.princeton.edu/wp-content/uploads/annals-v185-n3-p08-nodoi.pdf
 
 ## Further Reading
 
