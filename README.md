@@ -1,63 +1,108 @@
 # Hardest Math and Computing Problems Ever
 
-This repository collects some of the hardest problems in mathematics and computing.
+A curated collection of some of the most difficult problems ever studied in mathematics and theoretical computer science.
 
-It is split into two parts:
+This repository contains both unsolved frontier problems and historically important problems that were eventually solved after years, decades, or even centuries of effort.
 
-- **Question Set 1**: problems that are still open
-- **Question Set 2**: problems that are solved, with references to the papers or books where the solution appears
+The goal is to provide a research-oriented reference containing:
 
-## Folder Layout
+- Problem statements
+- Historical context
+- Why each problem matters
+- Major breakthroughs
+- References to original papers
+- AI-assisted and computer-assisted discoveries
+
+---
+
+## Repository Structure
 
 ```text
-Question_Set_1/
-Question_Set_2/
+Question_Set_1/                     # Open problems
+Question_Set_2/                     # Solved problems
+AI_Assisted_Mathematics.md
+Millennium_Prize_Problems.md
+Timeline_of_Major_Breakthroughs.md
 README.md
 LICENSE
-CONTRIBUTING.md
 ```
 
-## Question Set 1
+---
 
-These are classic open problems that still do not have a complete solution.
+# Question Set 1 — Open Problems
 
-- Riemann Hypothesis
-- P vs NP
-- Goldbach Conjecture
-- Twin Prime Conjecture
-- Collatz Conjecture
-- Navier-Stokes Existence and Smoothness
-- Yang-Mills Existence and Mass Gap
-- Birch and Swinnerton-Dyer Conjecture
-- Hodge Conjecture
-- Exponential Time Hypothesis
+Problems that remain unsolved.
 
-## Question Set 2
+| Problem | Area |
+|----------|----------|
+| Riemann Hypothesis | Number Theory |
+| P versus NP | Theoretical Computer Science |
+| Goldbach Conjecture | Number Theory |
+| Twin Prime Conjecture | Number Theory |
+| Collatz Conjecture | Dynamical Systems |
+| Navier-Stokes Existence and Smoothness | Applied Mathematics |
+| Yang-Mills Mass Gap | Mathematical Physics |
+| Birch and Swinnerton-Dyer Conjecture | Arithmetic Geometry |
+| Hodge Conjecture | Algebraic Geometry |
+| Exponential Time Hypothesis | Computational Complexity |
 
-These are major problems that have been solved.
+---
 
-- Fermat’s Last Theorem
-- Four Color Theorem
-- Poincaré Conjecture
-- Kepler Conjecture
-- Boolean Pythagorean Triples Problem
-- Catalan’s Conjecture
-- Modularity Theorem
-- Classification of Finite Simple Groups
-- Robbins Conjecture
-- Sphere Packing in Dimension 8 and 24
+# Question Set 2 — Solved Problems
+
+Problems that were eventually solved and changed the course of mathematics.
+
+| Problem | Solved By |
+|----------|----------|
+| Fermat's Last Theorem | Andrew Wiles |
+| Poincaré Conjecture | Grigori Perelman |
+| Four Color Theorem | Appel & Haken |
+| Kepler Conjecture | Thomas Hales |
+| Sphere Packing (E8 & Leech) | Maryna Viazovska et al. |
+| Catalan's Conjecture | Preda Mihăilescu |
+| Boolean Pythagorean Triples | Heule, Kullmann & Marek |
+| Modularity Theorem | Wiles, Taylor and others |
+| Classification of Finite Simple Groups | Hundreds of mathematicians |
+| Robbins Conjecture | Doron Zeilberger |
+
+---
+
+## Additional Files
+
+### AI_Assisted_Mathematics.md
+Documents major milestones involving:
+
+- SAT solvers
+- Automated theorem proving
+- Formal verification
+- AlphaGeometry
+- AlphaProof
+- Human-AI mathematical collaboration
+
+### Millennium_Prize_Problems.md
+Overview of the Clay Mathematics Institute's seven Millennium Prize Problems.
+
+### Timeline_of_Major_Breakthroughs.md
+Chronological overview of important developments from Fermat to modern AI-assisted mathematics.
+
+---
 
 ## References
 
-- The solved problems include links to the original proof papers or trusted references.
-- The open problems include standard problem statements and background reading.
+Whenever possible, each problem file includes:
 
-## Writing style
+- Original papers
+- Survey articles
+- Books
+- Official sources
+- Historical references
 
-The files in this repository are meant to read like something a student or researcher would actually write: clear, direct, and backed by references.
+---
 
-## Contributing
+## License
 
-Add one problem per file.
-Keep the statement short and accurate.
-Add a reference whenever a proof or source exists.
+Released under the MIT License.
+
+---
+
+If you find an error, missing reference, or important problem that should be included, feel free to open an issue or submit a pull request.
