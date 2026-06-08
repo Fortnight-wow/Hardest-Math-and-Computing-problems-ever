@@ -25,7 +25,7 @@ The exact enumeration formula proposed by Robbins is correct.
 ## Original Paper
 
 Doron Zeilberger:
-https://www.ams.org/journals/electronic/1996-03-02/S1079-6762-96-00032-6/
+https://sites.math.rutgers.edu/~zeilberg/mamarim/mamarimPDF/cry.pdf
 
 ## Further Reading
 
