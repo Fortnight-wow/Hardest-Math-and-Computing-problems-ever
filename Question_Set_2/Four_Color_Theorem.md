@@ -25,7 +25,7 @@ Every planar graph can be colored with at most four colors.
 ## Original Papers
 
 Appel and Haken:
-https://www.ams.org/journals/bull/1977-82-05/S0002-9904-1977-14398-6/
+https://ww2.ams.org/journals/notices/202603/rnoti-p216.pdf
 
 ## Further Reading
 
