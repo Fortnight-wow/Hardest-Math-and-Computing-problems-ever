@@ -1,24 +1,62 @@
 # Riemann Hypothesis
 
-## Problem
-The nontrivial zeros of the Riemann zeta function are conjectured to all lie on the critical line
+## The Question
 
-$$\Re(s)=\tfrac{1}{2}.$$
+In 1859, Bernhard Riemann published a short paper that transformed number theory.
 
-The zeta function is defined for complex numbers with real part greater than 1 by
+He studied the zeta function
 
-$$\zeta(s)=\sum_{n=1}^{\infty} \frac{1}{n^s},$$
+ζ(s) = Σ 1/n^s
 
-and then extended analytically to other values of $s$ except for a simple pole at $s=1$.
+and observed that its non-trivial zeros appeared to lie on the line
 
-## Why it is hard
-This conjecture connects prime numbers, complex analysis, analytic continuation, and deep spectral phenomena. A proof would give extremely sharp control over how primes are distributed.
+Re(s) = 1/2.
 
-## What a complete solution would show
-A full solution would prove that every nontrivial zero of $\zeta(s)$ has real part exactly $1/2$.
+The Riemann Hypothesis states that every non-trivial zero lies exactly on this critical line.
+
+## Why It Matters
+
+Prime numbers appear irregular, but the zeta function secretly encodes information about their distribution.
+
+A proof of the Riemann Hypothesis would dramatically improve many estimates involving primes and would influence large areas of mathematics.
+
+Fields affected include:
+
+- Number Theory
+- Cryptography
+- Analytic Number Theory
+- Random Matrix Theory
+- Mathematical Physics
+
+## What We Know So Far
+
+Billions of zeros have been checked computationally and all of them lie on the critical line.
+
+Many partial results are known.
+
+Hardy proved that infinitely many zeros lie on the critical line.
+
+Subsequent work showed that a positive proportion of zeros lie there.
+
+However, nobody has proved that all of them do.
+
+## Prize
+
+The Riemann Hypothesis is one of the Clay Mathematics Institute Millennium Prize Problems.
+
+Prize amount: $1,000,000.
+
+## References
+
+Riemann's original paper:
+https://www.claymath.org/wp-content/uploads/2022/06/riemann1859.pdf
+
+Clay Mathematics Institute:
+https://www.claymath.org/millennium/riemann-hypothesis/
+
+Edwards:
+Riemann's Zeta Function
 
 ## Status
-Open. It is one of the Clay Mathematics Institute Millennium Prize Problems.
 
-## Notes
-Many partial results are known, including the fact that infinitely many zeros lie on the critical line and that a very large proportion of zeros are known to lie there.
+Open.
