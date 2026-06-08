@@ -1,25 +1,25 @@
 # Hardest Math and Computing Problems Ever
 
-This repository is a curated archive of the hardest known problems in mathematics and computing.
+This repository collects some of the hardest problems in mathematics and computing.
 
-It is split into two collections:
+It is split into two parts:
 
-- **Question Set 1**: famous unsolved problems and open conjectures
-- **Question Set 2**: major problems that were solved by humans, teams, or assisted by modern computation and AI
+- **Question Set 1**: problems that are still open
+- **Question Set 2**: problems that are solved, with references to the papers or books where the solution appears
 
-## Repository Layout
+## Folder Layout
 
 ```text
 Question_Set_1/
 Question_Set_2/
-LICENSE
 README.md
+LICENSE
 CONTRIBUTING.md
 ```
 
-## Question Set 1: Unsolved Problems
+## Question Set 1
 
-These are problems that remain open or unresolved in the standard mathematical literature.
+These are classic open problems that still do not have a complete solution.
 
 - Riemann Hypothesis
 - P vs NP
@@ -32,9 +32,9 @@ These are problems that remain open or unresolved in the standard mathematical l
 - Hodge Conjecture
 - Exponential Time Hypothesis
 
-## Question Set 2: Solved Problems
+## Question Set 2
 
-These are landmark problems that have known solutions or proofs.
+These are major problems that have been solved.
 
 - Fermat’s Last Theorem
 - Four Color Theorem
@@ -47,16 +47,17 @@ These are landmark problems that have known solutions or proofs.
 - Robbins Conjecture
 - Sphere Packing in Dimension 8 and 24
 
-## What this repository is for
+## References
 
-This project is meant to become a clean, well-structured reference for:
+- The solved problems include links to the original proof papers or trusted references.
+- The open problems include standard problem statements and background reading.
 
-- difficult proof problems
-- benchmark-style reasoning challenges
-- historical breakthroughs
-- machine-checkable mathematical verification
-- references for students, researchers, and builders
+## Writing style
+
+The files in this repository are meant to read like something a student or researcher would actually write: clear, direct, and backed by references.
 
 ## Contributing
 
-Add one problem per file, keep claims precise, and include references wherever possible.
+Add one problem per file.
+Keep the statement short and accurate.
+Add a reference whenever a proof or source exists.
