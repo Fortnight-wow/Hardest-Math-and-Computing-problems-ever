@@ -35,10 +35,9 @@ for any integer n > 2.
 ## Original Papers
 
 Andrew Wiles:
-https://annals.math.princeton.edu/1995/141-3/p12
+https://annals.math.princeton.edu/1995/141-3/p01
 
-Richard Taylor and Andrew Wiles:
-https://annals.math.princeton.edu/1995/142-2/p01
+
 
 ## Suggested Reading
 
