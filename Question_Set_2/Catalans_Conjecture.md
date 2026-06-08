@@ -32,7 +32,7 @@ The only pair of consecutive perfect powers is:
 ## Original Paper
 
 Preda Mihăilescu:
-https://www.jstor.org/stable/3597221
+https://www.mimuw.edu.pl/~zbimar/Catalan.pdf
 
 ## Further Reading
 
